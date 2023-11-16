@@ -1,7 +1,7 @@
 module main
 
 fn format_url(urll string) string {
-	mut url := urll.to_lower()
+	mut url := urll
 	if !url.starts_with('file:///') && !url.starts_with('https://') {
 		if url.starts_with('/') {
 			for {
