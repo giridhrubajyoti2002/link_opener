@@ -47,6 +47,8 @@ Type `help` for more information.
 2               gfg     https://geeksforgeeks.org       2023-11-13 17:32:51
 >>> lc
 `https://leetcode.com` opened in default browser.
+>>> 2
+`https://geeksforgeeks.org` opened in default browser.
 >>> q
 ```
 
